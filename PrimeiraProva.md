@@ -1,10 +1,10 @@
-## Questão 1: As divisões da computação gráfica: 
+## Questão 1: As divisões da computação gráfica dê uma exemplo para cada: 
 
 sintese: modelo matemático ---> imagem
 
-visão computacional: imagem---> dados
+visão computacional: imagem---> modelo matemático
 
-processamento: imagem ---> modelo matemático
+processamento: imagem ---> imagem
 
 ## Questão 2: A importância do sketpad para evolução da computação gráfica.
 
