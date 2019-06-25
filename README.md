@@ -5,7 +5,7 @@
 ### Para instalação da biblioteca GLUT utilize:
 
 $sudo apt-get install freeglut3-dev
-## 
+
 $sudo apt-cache search glut
 
 ### Verificar a instalação
