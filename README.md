@@ -4,8 +4,6 @@ Neste repositório estão os trabalhos da disciplina de computação gráfica co
 
 ## Configurações do ambiente
 
- Funções da Reta, DDA , Bresenham e biblioteca GLUT
-
 ### Para instalação da biblioteca GLUT utilize:
 
 $sudo apt-get install freeglut3-dev
