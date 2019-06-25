@@ -14,10 +14,10 @@ $dpkg -L freeglut3-dev
 
 ### Para compilar os códigos utilize:
 
-$ gcc -o  codigo <nomedoprograma>.c -lglut -lGL -lGLU -lGLEW -lSDL2main -lSDL2 -lm
+$ gcc -o  codigo 'nomedoprograma'.c -lglut -lGL -lGLU -lGLEW -lSDL2main -lSDL2 -lm
 
 ### Se não houver erro, compile o comando abaixo:
 
 $ ./codigo
 
-### Verifique que todas as bibliotecas foram instaladas
+### Verifique se todas as bibliotecas foram instaladas
