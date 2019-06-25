@@ -1,6 +1,10 @@
-# Configurações do ambiente
+# Disciplina de computação gráfica UFPB
 
-## Funções da Reta, DDA , Bresenham e biblioteca GLUT
+Neste repositório estão os trabalhos da disciplina de computação gráfica com a professora Liliane. 
+
+## Configurações do ambiente
+
+ Funções da Reta, DDA , Bresenham e biblioteca GLUT
 
 ### Para instalação da biblioteca GLUT utilize:
 
