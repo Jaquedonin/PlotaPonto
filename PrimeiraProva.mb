@@ -1,12 +1,12 @@
-Questão 1: As divisões da computação gráfica: 
+## Questão 1: As divisões da computação gráfica: 
 
 sintese: modelo matemático ---> imagem
 visão computacional: imagem---> dados
 processamento: imagem ---> modelo matemático
 
-Questão 2: A importância do sketpad para evolução da computação gráfica.
+## Questão 2: A importância do sketpad para evolução da computação gráfica.
 
-Questão 3: Encontre o erro no códdigo: No primero código que ela deu em sala, estude a ordem em que as coisas são 
+## Questão 3: Encontre o erro no códdigo: No primero código que ela deu em sala, estude a ordem em que as coisas são 
 implementadas, principalmente a parte do main, como mostrado abaixo:
 
 int main(int argc, char ** argv)
