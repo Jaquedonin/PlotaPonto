@@ -32,3 +32,4 @@ int main(int argc, char ** argv)
 	return 0;
   }
 
+## Questão 4: Diferença entre imagem vetorial e matricial, explicar e identificar as imagens dadas.
