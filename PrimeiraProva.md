@@ -1,4 +1,4 @@
-## Questão 1: As divisões da computação gráfica dê uma exemplo para cada: 
+## Questão 1: Como a computação gráfica é dividida e um exemplo de cada: 
 
 sintese: modelo matemático ---> imagem
 
